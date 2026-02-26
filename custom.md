@@ -78,6 +78,28 @@ To run the script:
    ```bash
    python main.py
    ```
+   
+# Assignment 3  
+## Module 4: Functions & Modules in Python  
+
+This assignment demonstrates the use of functions and modules in Python.
+
+### Task 1: Calculate Factorial Using a Function
+- Implements a recursive function to calculate the factorial of a non-negative integer.
+- Uses proper function structure and a `main()` entry point.
+
+### Task 2: Using the Math Module
+- Utilizes Python’s built-in `math` module to compute:
+  - Square root
+  - Natural logarithm
+  - Sine value
+
+### Concepts Covered
+- Function definition and calls  
+- Recursion  
+- Importing and using modules  
+- Exception handling (`try-except`)  
+- Basic input validation  
 
 ## Relationship to README.md  
 - `main.py` implements the tasks described in README.md.  
